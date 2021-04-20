@@ -12,7 +12,7 @@ this algorithm, we plot each data item as a point in an ndimensional space (whe
   <br>
   <ol><h3>Steps to run:</h3>
     <li>Download the zip file of the code</li>
-    <li>run pip install numpy matplotlib panda</li>
+    <li>run pip install numpy matplotlib panda in the terminal</li>
     <li>run the code without debugging in the preffarable environment</li>
     </ol>
   
