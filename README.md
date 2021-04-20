@@ -1,7 +1,7 @@
 # LinearAlgebraProjectWM
 <h1>LINEAR ALGEBRA -- A Powerful Tool for Data Science</h1>
 <bt>
-  <h6>team members</h6>
+  <h6>Team members</h6>
 <h5>Lakshita Singh</h5>
 <h5>Isha Agarwal</h5>
 <br>
