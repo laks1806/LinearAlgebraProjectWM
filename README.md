@@ -10,6 +10,7 @@ Support vector machine is the most common classification algorithms that regular
 this algorithm, we plot each data item as a point in an ndimensional space (where n is the number of features) with the value of each feature being the value of a particular coordinate.
 </p>
 ![image 1](https://user-images.githubusercontent.com/74585503/115438534-22702380-a22b-11eb-9380-236455928b30.jpeg)
+  
 ![image 2](https://user-images.githubusercontent.com/74585503/115438584-34ea5d00-a22b-11eb-8a6c-1ad900467f7f.jpeg)
 
 
